@@ -1,3 +1,7 @@
+![Figure_1_14_44](https://user-images.githubusercontent.com/58235369/133673039-d1989ed8-5feb-4d9b-a2b8-d51617e2384d.png)
+![Figure_2_14_52](https://user-images.githubusercontent.com/58235369/133673085-ff7f65a5-9453-40c9-826e-49c2a21d8592.png)
+![Figure_3_15_05](https://user-images.githubusercontent.com/58235369/133673099-a0c9778e-14d0-49e6-9406-896a82365c99.png)
+
 Explanation: 
 The data we collected is from the senior design lab near the window around 3pm on Thursday. Data was collected for about 20 minutes, and yeilded 3 data file scans.
 
