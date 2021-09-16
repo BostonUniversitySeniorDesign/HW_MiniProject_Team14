@@ -17,7 +17,7 @@ import pandas
 import xarray
 from matplotlib.pyplot import show
 
-MAX_SSID = 100
+MAX_SSID = 200
 FMT = "%Y-%m-%dT%H_%M_%S"
 
 
