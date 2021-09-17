@@ -13,3 +13,4 @@ When it was time to copy the JSON file to our laptop, we were given trouble usin
 Then, in the wifi_plot.py file we had to change the MAX_SSID from 100 to 200 because when we ran it on our laptops with the max as 100, we were given an index error.
 
 Discussion:
+Overall, there is an apparent volatility in the number of active devices on the network, suggesting a lot of moving traffic in the general vicinity. A quick jump in the scan would likely be caused by a group of students going to class or congregating in a common area. At around 15:00 there is a large incline to 10 devices (through scans 1 and 2), which is around the time that a block of classes is starting further supporting my speculation.
